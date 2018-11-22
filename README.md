@@ -9,7 +9,7 @@ https://github.com/JoeKL/Laplace-Entwicklungssatz<br>
 
 ### Octave Anbindung via .mex-File und Gegenüberstellung mit Octaves A\b()-Funktion
 <br>
-<img src="https://github.com/JoeKL/Cramersche-Regel/blob/master/cramer/gg%C3%83%C2%BC.png" height="500"> <br>
+<img src="https://github.com/JoeKL/Cramersche-Regel/blob/master/cramer/gg.png" height="500"> <br>
 
 
 | dim | Zeit A\b in Sek|Zeit cramer in Sek|
