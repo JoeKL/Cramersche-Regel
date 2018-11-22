@@ -3,7 +3,7 @@ Hier ein mal die Cramersche Regel in C programmiert und via .mex-File in Octave 
 <br>
 <br>
 Für das Lösen von Matrizen habe ich meinen Laplace-Entwicklungssatz verwendet:<br>
-https://github.com/JoeKL/Laplace-Entwicklungssatz/edit/master/README.md<br>
+https://github.com/JoeKL/Laplace-Entwicklungssatz<br>
 <br>
 <br>
 
