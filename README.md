@@ -7,6 +7,8 @@ https://github.com/JoeKL/Laplace-Entwicklungssatz<br>
 <br>
 <br>
 
+### Octave Anbindung via .mex-File und Gegenüberstellung mit Octaves A\b()-Funktion
+
 | dim | Zeit A\b in Sek|Zeit cramer in Sek|
 |-----|----------------|------------------|
 | 1x1 |       0.0102811|         0.0871289|
