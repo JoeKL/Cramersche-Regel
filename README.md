@@ -25,9 +25,9 @@ https://github.com/JoeKL/Laplace-Entwicklungssatz<br>
 <br>
 Hier dann noch ein mal die Gegenüberstellung als Graphen in einem logarithmischen Koordinatensystem. Die Cramer-Implementierung ist hier als Blau und die Octave-Implementierung als Rot zu sehen. Es fällt auf, dass die Laufzeit beider Algorithmen bis 4x4 praktisch gleich ist. 5x5 weißt schon leichte Abweichungen auf und ab 6x6 ist die höhere Komplexität meiner Cramer-Implementierung zu spüren.
 Aber auch hier ist zu sehen, dass für unsere Aufgabe (5x5 Matrix) die Laufzeit der Cramer-Implementierung vollkommen ausreicht.
- 
+ <br>
 <br>
-
+<br>
 Mein System:<br>
   Systemmodell: Dell XPS 15 9560<br>
   OS: Windows 10 Home 64-Bit-Version (10.0, Build 17763)<br>
